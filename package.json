@@ -1,6 +1,6 @@
 {
     "name": "user",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "user REST API",
     "main": "server.js",
     "scripts": {
@@ -18,5 +18,5 @@
         "pino-pretty": "^2.5.0",
         "@instana/collector": "^1.98.1"
     }
-  }
+  }  
   
